@@ -25,7 +25,8 @@ Optional Software:
 
 ### Help Documentation
 
-* [Procedimento para configuração de Ambiente Docker Local](https://drive.google.com/drive/u/1/folders/107KiyKYECqG34F-O6UsVU1RDcGukkKmQ) - Google drive da Equipe 
+* [Procedure for Configuring Local Docker Environment](https://drive.google.com/drive/u/1/folders/107KiyKYECqG34F-O6UsVU1RDcGukkKmQ) - Google drive da Equipe 
+* [Git and GitHub - Working with PULL REQUEST](https://drive.google.com/drive/u/2/folders/1A2DLVXekwxpci6IvjLnTZYKJ4EelKM5K)
 
 ## License
 
