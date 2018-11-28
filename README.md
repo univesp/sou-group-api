@@ -16,6 +16,7 @@ The following software in its most recent versions must be installed as prerequi
 * [.ENV file of module](https://drive.google.com/drive/u/2/folders/1YNSExN77uuqWFAZ_yl7qTUunWuRVLCMW) - .ENV file of each module in GDrive > **#SOU > Infraestrutura > sou-docker > sou-group > .env**
 
 **Observations for .env files**
+
 You need rename the .ENV files founded in GDrive to your original version.
 Exemple:
 * laradock.env: rename it to .env and put it in root folder of Laradock
