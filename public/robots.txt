@@ -1,1 +1,12 @@
 # See http://www.robotstxt.org/robotstxt.html for documentation on how to use the robots.txt file
+
+
+##Example
+
+# Block googlebot from example.com/directory1/... and example.com/directory2/...
+# but allow access to directory2/subdirectory1/...
+# All other directories on the site are allowed by default.
+# User-agent: test
+# Disallow: /directory1/
+# Disallow: /directory2/
+# Allow: /directory2/subdirectory1/
